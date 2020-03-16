@@ -13,6 +13,12 @@
 * Change Password
 * Delete Account
 
+**Dependencies**
+
+* Python 3
+* PostgreSql
+* PyQt5
+
 **Login Screen**
 
 ![loginscreen](https://user-images.githubusercontent.com/41800843/76785380-63933a00-67c6-11ea-99cd-908943f0ffa1.png)
